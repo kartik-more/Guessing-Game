@@ -32,6 +32,4 @@ A fun and interactive **Java console-based game** where the user tries to guess 
 
 ## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/number-guessing-game.git
+1. Clone the repository: https://github.com/kartik-more/Guessing-Game
