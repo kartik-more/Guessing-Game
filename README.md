@@ -22,7 +22,6 @@ A fun and interactive **Java console-based game** where the user tries to guess 
 ---
 
 ## 🛠️ Technologies Used
-
 - Java (Core Java)
 - OOP Concepts
 - `Scanner` for input handling
@@ -30,6 +29,6 @@ A fun and interactive **Java console-based game** where the user tries to guess 
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to run
 
 1. Clone the repository: https://github.com/kartik-more/Guessing-Game
