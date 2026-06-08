@@ -25,10 +25,10 @@ A fun and interactive **Java console-based game** where the user tries to guess 
 - Java (Core Java)
 - OOP Concepts
 - `Scanner` for input handling
-- `Random` for number generation
+- `Random` for number generation 
 
 ---
 
-## 🚀 How to run
+## 🚀 How to Run
 
 1. Clone the repository: https://github.com/kartik-more/Guessing-Game
